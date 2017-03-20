@@ -1,6 +1,6 @@
 "Word of the Day".
-Via a python script scraping the merriam-webster website. 																				Program collects Todays Word , along with its syllables , definitions and examples. 
-Another feature, is it gets the previous 7 days words aswell. 
+Via a python script scraping the merriam-webster website. 										Program collects Todays Word , along with its syllables , definitions and examples. 
+Another feature is, it gets the previous 7 days of words.
 These are all saved as .json files.
 
 
